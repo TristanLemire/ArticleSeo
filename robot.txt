@@ -1,0 +1,6 @@
+# robots.txt for http://www.lemonde.fr/
+
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /account/
