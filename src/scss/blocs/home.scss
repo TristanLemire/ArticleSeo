@@ -34,8 +34,8 @@ div.home {
     display: flex;
     @include mobile {
         display: block;
+        margin-bottom: 52px;
       }
-    margin-bottom: 52px;
     div.first_article {
       margin-right: 15px;
       @include mobile {
