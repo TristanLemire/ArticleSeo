@@ -4,7 +4,6 @@ header {
       margin-bottom: 10px;
       display: flex;
       align-items: center;
-  
       @include mobile {
         justify-content: space-around;
       }
@@ -63,7 +62,10 @@ header {
           color: black;
           font-size: 17px;
           cursor: pointer;
-  
+          text-decoration: none;
+          a{
+            color: black;
+          }
           @include mobile {
             width: 30%;
             margin-top: 10px;
