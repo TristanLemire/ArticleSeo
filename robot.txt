@@ -4,3 +4,4 @@ User-agent: *
 Disallow: /admin/
 Disallow: /login/
 Disallow: /account/
+Sitemap: http://www.lemonde.fr/sitemap.xml
